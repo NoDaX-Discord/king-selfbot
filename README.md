@@ -11,3 +11,8 @@ selfbot complet, simple d'utilisation.
 
 
 SUPPORT: https://discord.gg/Gcr5nWgeu8
+
+
+Prochaine mise à jour
+-add multipresence
+-fix command token
