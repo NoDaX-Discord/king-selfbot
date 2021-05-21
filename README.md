@@ -1,7 +1,7 @@
 # king-selfbot
 selfbot complet, simple d'utilisation.
 
-1- Lancez une cmd et dirigez la vers votre selfbot, faites npm i puis attendez.
+1- Lancez install.bat puis attendez, quand ça sera fini la page va se fermer.
 
 2- Lancez update.bat pour mettre le self a jour, quand ça sera fini la page va se fermer.
 
